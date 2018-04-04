@@ -1,11 +1,9 @@
 package edu.ctco.school.exercise5;
 
-class X
-{
+class X {
     protected int i = 1221;
 
-    private void methodOfX()
-    {
+    private void methodOfX() {
         System.out.println(i);
     }
 }
