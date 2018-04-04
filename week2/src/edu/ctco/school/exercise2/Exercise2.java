@@ -2,7 +2,7 @@ package edu.ctco.school.exercise2;
 
 /**
  * Does field 'i' of Class Exercise2 be inherited to Class SubExercise2 in the below code?
- *
+ * <p>
  * What are the options in this particular case?
  * Ans. int i must be public or protected
  */
